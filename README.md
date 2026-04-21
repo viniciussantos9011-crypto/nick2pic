@@ -1,4 +1,5 @@
-# Nick2Pic
+# VT
+
 
 Nick2Pic is a simple application to generate unique and creative nicknames for your Minecraft character.
 
